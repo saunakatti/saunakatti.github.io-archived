@@ -3,11 +3,10 @@
 > [!Warning]
 > This repository has been archived. Feel free to check out the new website when released.
 
+---
+
 My personal site for links and other stuff. Intended as a learning project for css, html etc.
 Uses Mocha pallette of [Catppuccin](https://github.com/catppuccin/catppuccin) for the default theme. The site also uses (or at least tries to use) [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) for cool icons. 
-
-> [!Note]
-> GitHub pages means no backend.
 
 ### [saunakatti.github.io](https://saunakatti.github.io/)
 
